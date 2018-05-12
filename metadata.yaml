@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39262
     wikipedia: http://it.wikipedia.org/wiki/Alfredo_Panzini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42294#Il-1859-da-Plombi-res-a-Villafranca
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2013-03-10'
 gutenberg_type: Text
